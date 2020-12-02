@@ -1,6 +1,8 @@
 # Update Dice Profile using selenium webdriver
 
-*NOTICE* This app created for two Dice profiles, place links from your profile to line 36 and 38. If you have hust one Dice pofile -> delete line *38* and *39* and change variable **profileQty = 1**
+*NOTICE:*
+
+This app created for two Dice profiles, place links from your profile to line 36 and 38. If you have hust one Dice pofile -> delete line *38* and *39* and change variable **profileQty = 1**
 
 Instruction for Eclipse IDE:
 
